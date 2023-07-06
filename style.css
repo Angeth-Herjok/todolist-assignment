@@ -88,4 +88,25 @@ h2{
   }
 
 
- 
+  .checkbox {
+    display: none;
+  }
+  
+  .edit-complete {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  
+  .edit-complete input {
+    width: 100%;
+  }
+  
+  .edit-complete input:checked + span {
+    display: block;
+  }
+  
+  .edit-complete span {
+    display: none;
+  }

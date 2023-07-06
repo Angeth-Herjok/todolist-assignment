@@ -1,0 +1,91 @@
+/* h1 {
+    font-size: 2em;
+    margin-bottom: 1em;
+  }
+  
+  #todo-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .task {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .task:hover {
+    background-color: #eee;
+  }
+  
+  .complete {
+    text-decoration: line-through;
+  } */
+/* 
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  h1 {
+    text-align: center;
+  }
+  #addTaskForm {
+    margin-bottom: 20px;
+  }
+  #taskList {
+    list-style: none;
+    padding: 0;
+  }
+  .task {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  .task span {
+    flex-grow: 1;
+  }
+  .task button {
+    margin-left: 10px;
+  }
+  .task.completed span {
+    text-decoration: line-through;
+    opacity: 0.7;
+  }
+   */
+
+
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  h1 {
+    text-align: center;
+  }
+  #addTaskForm {
+    margin-bottom: 20px;
+  }
+  #taskList {
+    list-style: none;
+    padding: 0;
+  }
+  .task {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  .task span {
+    flex-grow: 1;
+  }
+  .task button {
+    margin-left: 10px;
+  }
+  .task.completed span {
+    text-decoration: line-through;
+    opacity: 0.7;
+  }
+  #allTasks {
+    margin-top: 20px;
+  }
